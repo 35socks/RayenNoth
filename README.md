@@ -1,2 +1,2 @@
 # Rayen Noth
-This is the code behind my website [https://rayennoth.com](rayennoth.com).
+This is the code behind my website [rayennoth.com](https://rayennoth.com).
